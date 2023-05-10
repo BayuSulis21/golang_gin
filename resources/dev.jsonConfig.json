@@ -1,0 +1,16 @@
+{
+    "db": {
+        "user": "root",
+        "pass": "",
+        "name": "pos",
+        "host": "localhost",
+        "port": 3306,
+        "dbType": "mysql",
+        "location": "Asia/Jakarta",
+        "sslMode": "disable",
+        "alias": "default",
+        "force": false,
+        "verbose": true,
+        "debug": true
+    }
+}
